@@ -98,6 +98,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: fluid
+all_minifier: true
 #language: zh-CN
 
 # Deployment
