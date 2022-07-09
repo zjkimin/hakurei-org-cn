@@ -3,6 +3,7 @@ title: 软件更新
 date: 2022-07-09 20:06:54
 banner_img: /img/bg1.jpg
 author: min
+hide: true
 ---
 
 为了方便相关软件更新,现将各种软件最新版链接提供如下.
