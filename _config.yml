@@ -105,3 +105,8 @@ all_minifier: true
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+spoiler:
+  style: blur # 或者box
+  color: black # 仅当 style 为 box 时起效
+  p: false # 没懂啥意思，不管它
